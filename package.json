@@ -11,5 +11,10 @@
     "axios": "^1.5.1",
     "m3u8-parser": "^7.1.0",
     "request": "^2.88.2"
+  },
+  "dependencies": {
+    "natural": "^6.10.4",
+    "nodejieba": "^2.6.0",
+    "sentiment": "^5.0.2"
   }
 }
